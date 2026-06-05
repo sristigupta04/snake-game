@@ -64,6 +64,15 @@ src/
 ```
 ## netify link 
 https://snakeapp-game.netlify.app/
+
+
+## screenshots
+<img width="1813" height="982" alt="image" src="https://github.com/user-attachments/assets/cf7f6bb4-1832-4eb2-870c-1f857ff531ad" />
+
+
+<img width="946" height="933" alt="image" src="https://github.com/user-attachments/assets/a577b30a-f8ed-461e-88c5-6561f68ffd24" />
+
+
 ## Future Improvements
 
 * High Score System
