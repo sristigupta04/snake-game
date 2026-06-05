@@ -62,7 +62,8 @@ src/
 │
 ├── App.jsx
 ```
-
+## netify link 
+https://snakeapp-game.netlify.app/
 ## Future Improvements
 
 * High Score System
